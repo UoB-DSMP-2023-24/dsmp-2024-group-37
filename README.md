@@ -5,5 +5,4 @@ Group Number: 37
 
 Problem Assigned: 
 
-Group Members:
-
+Group Members:  SHAOYANG ZHUANG, JIA TIAN, WEN ZHANG, JUNCHEN ZHANG
